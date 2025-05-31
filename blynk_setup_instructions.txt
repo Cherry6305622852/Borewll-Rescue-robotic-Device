@@ -1,0 +1,7 @@
+1. Download Blynk IoT app (Play Store / App Store)
+2. Create a new project and select device: ESP32
+3. Add widgets:
+   - Gauge (V0) for distance
+   - Button (V1) for servo control (optional)
+4. Link Auth Token from email to Arduino code
+5. Upload code to ESP32 and run the app
